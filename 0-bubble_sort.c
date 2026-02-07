@@ -1,4 +1,4 @@
-#include "sorts.h"
+#include "sort.h"
 /**
  * bubble_sort - function that sorts array list
  * @array:array
